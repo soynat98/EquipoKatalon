@@ -1,4 +1,4 @@
-package com.example.TestSuite3;
+package com.example.TestSuite;
 
 import java.util.regex.Pattern;
 import java.util.List;
