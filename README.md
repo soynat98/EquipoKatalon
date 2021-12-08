@@ -1,2 +1,7 @@
 # EquipoKatalon
-#Integrantes
+Integrantes
+
+* Cristina
+* Mariela
+* Joseph
+* Natalia
